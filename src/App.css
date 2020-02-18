@@ -1,0 +1,71 @@
+.text_ {
+    font-size: 10px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a {
+    font-size: 10px;
+}
+
+#logo {
+    width: 131px;
+    margin-left: 43px;
+}
+
+#bg-bitmax {
+    background-color: #2e3f4d;
+    color: white
+}
+
+a {
+    color: white
+}
+
+#dropdown-Email {
+    background-color: #2e3f4d;
+    color: white;
+    border: none;
+}
+
+#bgColor {
+    background-color: #2e3f4d;
+}
+
+#settingicon {
+    padding: 9px;
+}
+
+#bg_sidebar {
+    background-color: #303f45;
+    color: white;
+}
+
+.sidebarDropdownButton {
+    background: transparent;
+    border: none;
+}
+
+text_footer {
+    font-size: 10px;
+}
+
+.bg_content {
+    background-color: #303f45;
+}
+
+.forecolor {
+    color: white
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.header {
+    overflow: hidden;
+}

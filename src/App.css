@@ -23,7 +23,7 @@ a {
 }
 
 a {
-    color: white
+    color: white;
 }
 
 #dropdown-Email {
@@ -34,10 +34,6 @@ a {
 
 #bgColor {
     background-color: #2e3f4d;
-}
-
-#settingicon {
-    padding: 9px;
 }
 
 #bg_sidebar {
@@ -71,12 +67,90 @@ body {
 }
 
 
-/* /////////////// */
+/* ///Noori CSS///// */
 
-div#bg-bitmax {
-    padding: 20px 10px;
+header#bg-bitmax.header_>div {
+    font-family: cursive;
+    text-transform: uppercase;
 }
 
-#bg-bitmax #navbarTogglerDemo02 li a {
+header#bg-bitmax.header_ {
+    height: 65px;
+}
+
+.header_ .navbar.navbar-expand-lg {
+    padding: 10px 0px;
+}
+
+.header_ .col-lg-4.col-sm-12 {
+    padding: 0px;
+}
+
+header#bg-bitmax.header_ li a {
+    font-size: 16px;
+    padding: 5px 10px;
+    font-weight: bold;
+}
+
+
+/* header ends here */
+
+div#headingOne {
+    display: flex;
+    justify-content: center;
+}
+
+div#headingOne a {
     font-size: 20px;
 }
+
+h5.mb-0 {
+    margin-right: 10px;
+}
+
+span#settingicon {
+    margin-left: 10px;
+}
+
+span#settingicon a {
+    padding-right: 10px;
+}
+
+div#istcardbody_ * {
+    font-size: 12px;
+    font-family: cursive;
+}
+
+#istcardbody_ span.badge.badge-success.small {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 10px auto;
+    width: 100%;
+}
+
+
+/* aside ends here */
+
+
+/* footer starts here */
+
+div#bg-bitmax.row.small {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+div#istportion_>div {
+    display: flex;
+    justify-content: center;
+}
+
+div#istportion_ img {
+    margin: 0px;
+}
+
+div#istportion_ div {
+    margin-top: 10px;
+}
+
+
+/* //noori */

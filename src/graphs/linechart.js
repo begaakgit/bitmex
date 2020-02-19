@@ -46,11 +46,3 @@ export function LineChart() {
 
 
 
-
-//   <div className="col-md-4">
-//   <MyChart />
-// </div>
-
-// <div className="col-md-4 small">
-//   <LineChart />
-// </div>

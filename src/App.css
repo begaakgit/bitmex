@@ -70,7 +70,6 @@ body {
 /* ///Noori CSS///// */
 
 header#bg-bitmax.header_>div {
-    font-family: cursive;
     text-transform: uppercase;
 }
 
@@ -89,7 +88,6 @@ header#bg-bitmax.header_ {
 header#bg-bitmax.header_ li a {
     font-size: 16px;
     padding: 5px 10px;
-    font-weight: bold;
 }
 
 
@@ -118,7 +116,6 @@ span#settingicon a {
 
 div#istcardbody_ * {
     font-size: 12px;
-    font-family: cursive;
 }
 
 #istcardbody_ span.badge.badge-success.small {
@@ -130,6 +127,21 @@ div#istcardbody_ * {
 
 
 /* aside ends here */
+
+nav#upperNav_,
+nav#LowerNav_ {
+    width: -webkit-fill-available;
+}
+
+ul.navbar-nav.mr-auto.mt-2.mt-md-0 {
+    margin: unset;
+    width: -webkit-fill-available;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+/* body ends here */
 
 
 /* footer starts here */

@@ -69,3 +69,14 @@ body {
 .header {
     overflow: hidden;
 }
+
+
+/* /////////////// */
+
+div#bg-bitmax {
+    padding: 20px 10px;
+}
+
+#bg-bitmax #navbarTogglerDemo02 li a {
+    font-size: 20px;
+}

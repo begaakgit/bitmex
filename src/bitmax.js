@@ -9,19 +9,19 @@ export class BitMax extends Component {
     render() {
 
         return (
-            <div className="Container ">
+            <div className="container-fluid">
                 <div className="row">
                     <Header />
-                    <div className="col-lg-3 text_ col-md-12 col-xs-12" id="sidebar_">
+                    </div>
+                   <div className="row"> <div className="col-lg-3 text_ col-md-12 col-xs-12" id="sidebar_">
                         <Sidebar />
                     </div>
                     <div className="col-lg-9 " id="mainbodycontent_">
-                        <MainContent />
-
+                        <MainContent /> 
                     </div>
-                    <Footer />
-
-                </div>
+                    </div>
+                    <div className="row"><Footer /> </div>
+               
             </div>
         )
     }

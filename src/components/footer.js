@@ -6,7 +6,7 @@ export class Footer extends Component {
 
             <div className="row small" id="bg-bitmax">
                         <br />
-                        <div className="col-md-3 offset-1 " id="istportion_">
+                        <div className="col-md-3 col-10 offset-1 " id="istportion_">
 
                             <div className="col-md-12">
                                 <img id="logo" src="https://static.bitmex.com/assets/img/bitmex-logo-v2-alt-white.png" />
@@ -23,7 +23,7 @@ export class Footer extends Component {
                             </div>
                         </div>
 
-                        <div className="col-md-2" id="2ndportion_">
+                        <div className="col-md-2 col-6" id="_2ndportion_">
                             <div className="col-md-12">
                                 <strong><p>About</p></strong>
                             </div>
@@ -36,7 +36,7 @@ export class Footer extends Component {
                             <p>Terms of Services</p>
 
                         </div>
-                        <div className="col-md-2" id="3rdportion_">
+                        <div className="col-md-2 col-6" id="_3rdportion_">
                             <div className="col-md-12">
                                 <strong><p>Data</p></strong>
                             </div>
@@ -49,7 +49,7 @@ export class Footer extends Component {
 
                             <p>Ethereum / USD</p>
                         </div>
-                        <div className="col-md-2" id="4thportion_">
+                        <div className="col-md-2 col-6" id="_4thportion_">
                             <div className="col-md-12">
                                 <strong><p>Reference</p></strong>
                             </div>
@@ -59,7 +59,7 @@ export class Footer extends Component {
                             <p>Knowledge</p>
                             <p>Trading on bitmex</p>
                         </div>
-                        <div className="col-md-2" id="5thportion_">
+                        <div className="col-md-2 col-6" id="_5thportion_">
                             <div className="col-md-12">
                                 <strong><p>Contact us</p></strong>
                             </div>

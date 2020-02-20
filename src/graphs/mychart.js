@@ -28,7 +28,7 @@ import { Chart } from 'react-charts'
   
     <div
       style={{
-        width: '200px',
+    
         height: '300px'
       }}
     >

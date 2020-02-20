@@ -1,168 +1,275 @@
-.text_ {
-    font-size: 10px;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-a {
-    font-size: 10px;
-}
-
-#logo {
-    width: 131px;
-    margin-left: 43px;
-}
-
-#bg-bitmax {
-    background-color: #2e3f4d;
-    color: white
-}
-
-a {
-    color: white;
-}
-
-#dropdown-Email {
-    background-color: #2e3f4d;
-    color: white;
-    border: none;
-}
-
-#bgColor {
-    background-color: #2e3f4d;
-}
-
-#bg_sidebar {
-    background-color: #303f45;
-    color: white;
-}
-
-.sidebarDropdownButton {
-    background: transparent;
-    border: none;
-}
-
-text_footer {
-    font-size: 10px;
-}
-
-.bg_content {
-    background-color: #303f45;
-}
-
-.forecolor {
-    color: white
-}
-
-body {
-    overflow-x: hidden;
-}
-
-.header {
-    overflow: hidden;
-}
-
-
-/* ///Noori CSS///// */
-
-header#bg-bitmax.header_>div {
-    text-transform: uppercase;
-}
-
-header#bg-bitmax.header_ {
-    height: 65px;
-}
-
-.header_ .navbar.navbar-expand-lg {
-    padding: 10px 0px;
-}
-
-.header_ .col-lg-4.col-sm-12 {
-    padding: 0px;
-}
-
-header#bg-bitmax.header_ li a {
-    font-size: 16px;
-    padding: 5px 10px;
-}
-
-
-/* header ends here */
-
-div#headingOne {
-    display: flex;
-    justify-content: center;
-}
-
-div#headingOne a {
-    font-size: 20px;
-}
-
-h5.mb-0 {
-    margin-right: 10px;
-}
-
-span#settingicon {
-    margin-left: 10px;
-}
-
-span#settingicon a {
-    padding-right: 10px;
-}
-
-div#istcardbody_ * {
-    font-size: 12px;
-}
-
-#istcardbody_ span.badge.badge-success.small {
-    padding-top: 20px;
-    padding-bottom: 20px;
-    margin: 10px auto;
-    width: 100%;
-}
-
-
-/* aside ends here */
-
-nav#upperNav_,
-nav#LowerNav_ {
-    width: -webkit-fill-available;
-}
-
-ul.navbar-nav.mr-auto.mt-2.mt-md-0 {
-    margin: unset;
-    width: -webkit-fill-available;
-    display: flex;
-    justify-content: space-evenly;
-}
-
-
-/* body ends here */
-
-
-/* footer starts here */
-
-div#bg-bitmax.row.small {
-    padding-top: 50px;
-    padding-bottom: 50px;
-}
-
-div#istportion_>div {
-    display: flex;
-    justify-content: center;
-}
-
-div#istportion_ img {
-    margin: 0px;
-}
-
-div#istportion_ div {
-    margin-top: 10px;
-}
-
-
-/* //noori */
+                .text_ {
+                    font-size: 10px;
+                }
+                
+                h1,
+                h2,
+                h3,
+                h4,
+                h5,
+                h6,
+                a {
+                    font-size: 10px;
+                }
+                
+                #logo {
+                    width: 131px;
+                    margin-left: 43px;
+                }
+                
+                #bg-bitmax {
+                    background-color: #2e3f4d;
+                    color: white
+                }
+                
+                a {
+                    color: white;
+                }
+                
+                #dropdown-Email {
+                    background-color: #2e3f4d;
+                    color: white;
+                    border: none;
+                }
+                
+                #bgColor {
+                    background-color: #2e3f4d;
+                }
+                
+                #bg_sidebar {
+                    background-color: #303f45;
+                    color: white;
+                }
+                
+                .sidebarDropdownButton {
+                    background: transparent;
+                    border: none;
+                }
+                
+                text_footer {
+                    font-size: 10px;
+                }
+                
+                .bg_content {
+                    background-color: #303f45;
+                }
+                
+                .forecolor {
+                    color: white
+                }
+                
+                body {
+                    overflow-x: hidden;
+                }
+                
+                .header {
+                    overflow: hidden;
+                }
+                /* ///Noori CSS///// */
+                
+                .container-fluid {
+                    padding: unset;
+                }
+                
+                .row {
+                    display: flex;
+                    flex-wrap: wrap;
+                    margin-right: unset;
+                    margin-left: unset;
+                }
+                /* global section ends here */
+                
+                header#bg-bitmax.header_>div {
+                    text-transform: uppercase;
+                }
+                
+                header#bg-bitmax.header_ {
+                    height: 65px;
+                }
+                
+                .header_ .navbar.navbar-expand-lg {
+                    padding: 10px 0px;
+                }
+                
+                .header_ .col-lg-4.col-sm-12 {
+                    padding: 0px;
+                }
+                
+                header#bg-bitmax.header_ li a {
+                    font-size: 16px;
+                    padding: 5px 10px;
+                }
+                /* header ends here */
+                
+                div#istcardbody_ .row * {
+                    font-size: 100%;
+                }
+                
+                div#headingOne {
+                    display: flex;
+                    justify-content: center;
+                }
+                
+                div#headingOne a {
+                    font-size: 20px;
+                }
+                
+                h5.mb-0 {
+                    margin-right: 10px;
+                }
+                
+                span#settingicon {
+                    margin-left: 10px;
+                }
+                
+                span#settingicon a {
+                    padding-right: 10px;
+                }
+                
+                #istcardbody_ span.badge.badge-success.small {
+                    padding-top: 20px;
+                    padding-bottom: 20px;
+                    margin: 10px auto;
+                    width: 100%;
+                }
+                
+                div#headingThree a,
+                div#headingTwo a {
+                    font-size: 12px;
+                }
+                
+                div#sidebar_ {
+                    padding: 0px;
+                }
+                /*  */
+                
+                div#istcardbody_ {
+                    padding: 20px 0px;
+                    font-size: 13px;
+                }
+                
+                #istcardbody_ span.badge.badge-success.small {
+                    margin: 10px auto;
+                    width: 100%;
+                    padding: 20px 0px;
+                }
+                
+                .sprow .col-lg-6.f {
+                    padding-right: 2px;
+                    padding-left: 5px;
+                }
+                
+                .sprow .col-lg-6.s {
+                    padding-right: 5px;
+                    padding-left: 2px;
+                }
+                
+                .row.t div {
+                    padding-right: 0px;
+                }
+                
+                .row.t input {
+                    width: 100%;
+                }
+                
+                .row.sprow {
+                    padding: 10px 0px;
+                }
+                /* aside ends here */
+                
+                nav#upperNav_,
+                nav#LowerNav_ {
+                    width: -webkit-fill-available;
+                }
+                
+                ul.navbar-nav.mr-auto.mt-2.mt-md-0 {
+                    margin: unset;
+                    width: -webkit-fill-available;
+                    display: flex;
+                    justify-content: space-evenly;
+                }
+                /* body ends here */
+                
+                #mainbodycontent_ .col-md-4 {
+                    padding: 0px;
+                    padding-right: 20px;
+                }
+                
+                #LowerNav_ a.nav-link,
+                #upperNav_ a.nav-link {
+                    font-size: 14px;
+                    padding: 5px;
+                }
+                /* footer starts here */
+                
+                div#bg-bitmax.row.small strong p {
+                    text-decoration: underline;
+                    font-size: large;
+                }
+                
+                div#bg-bitmax.row.small {
+                    padding-top: 5px;
+                    padding-bottom: 15px;
+                }
+                
+                div#istportion_>div {
+                    display: flex;
+                    justify-content: center;
+                }
+                
+                div#istportion_ img {
+                    margin: 0px;
+                }
+                
+                div#istportion_ div {
+                    margin-top: 10px;
+                }
+                
+                div#bg-bitmax.row.small .col-md-2 p {
+                    margin-bottom: 5px;
+                    margin-top: 5px;
+                }
+                
+                div#istportion_ p {
+                    margin-bottom: 0px;
+                }
+                
+                button.btn.btn-link {
+                    padding-top: 0px;
+                }
+                
+                div#bg-bitmax.row.small p {
+                    font-size: 14px;
+                }
+                
+                div#bg-bitmax.row.small .col-md-2 .col-md-12 {
+                    padding-left: 0px;
+                    padding-right: 0px;
+                }
+                
+                @media(max-device-width:320px) {
+                    /* sidebar ends here */
+                    div#istportion_,
+                    #_2ndportion_,
+                    #_3rdportion_,
+                    #_4thportion_,
+                    #_5thportion_ {
+                        /* margin: 0px auto; */
+                    }
+                }
+                
+                @media(max-device-width:767px) {
+                    #mainbodycontent_ .col-md-4 {
+                        padding-right: unset;
+                    }
+                }
+                
+                @media(max-device-width:991px) {
+                    div#istcardbody_ {
+                        padding: 20px 0px;
+                        font-size: 16px;
+                    }
+                    div#mainbodycontent_ {
+                        padding: 0px;
+                    }
+                }

@@ -46,33 +46,33 @@ export class Sidebar extends Component {
                             </div>
                         </div>
 
-                        <div className="row">
+                        <div className="row t">
                             <div className="col-lg-4">
                                 <span className="small">
                                     Quality
                             </span>
                             </div>
 
-                            <div className="col-lg-6">
+                            <div className="col-lg-7">
                                 <input type="number" />
                             </div>
                         </div>
 
-                        <div className="row">
+                        <div className="row t">
                             <div className="col-lg-4">
                                 <span className="small">
                                     Stop Price
                             </span>
                             </div>
 
-                            <div className="col-lg-6">
+                            <div className="col-lg-7">
                                 <input type="number" placeholder="0.00000" />
                             </div>
                         </div>
                         <br></br>
-                        <div className="row">
+                        <div className="row sprow">
 
-                            <div className="col-lg-6">
+                            <div className="col-lg-6 f">
                                 <span class="badge badge-success small">
                                     Set By Stop
                            <hr></hr>
@@ -84,7 +84,7 @@ export class Sidebar extends Component {
                                 <h6>Available balance</h6>
                             </div>
 
-                            <div className="col-lg-6">
+                            <div className="col-lg-6 s">
 
                                 <span class="badge badge-success small">
                                     Set By Stop
